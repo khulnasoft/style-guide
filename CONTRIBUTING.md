@@ -1,4 +1,4 @@
-# Contributing to Vercel's Style Guide
+# Contributing to Khulnasoft's Style Guide
 
 ## Installing
 
@@ -30,7 +30,7 @@ The default branch for this repository is `canary`. Each relevant commit into
 `canary` triggers a pre-release. Merging `canary` into `main` will trigger a
 release.
 
-We try to group changes together, when possible, as monthly [milestones](https://github.com/vercel/style-guide/milestones).
+We try to group changes together, when possible, as monthly [milestones](https://github.com/khulnasoft/style-guide/milestones).
 This results in less major version changes than if every commit was merged to
 `main` directly.
 
@@ -54,7 +54,7 @@ Resolves #1
 The scope should be included most of the time, and all allowed types and scopes
 are documented here:
 
-- https://github.com/vercel/style-guide/blob/main/.commitlintrc.js
+- https://github.com/khulnasoft/style-guide/blob/main/.commitlintrc.js
 
 ### How commits affect versions
 
