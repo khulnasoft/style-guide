@@ -1,9 +1,10 @@
 {
   "$schema": "https://json.schemastore.org/tsconfig",
-  "display": "Khulnasoft Base",
+  "display": "KhulnaSoft Base",
   "docs": "https://github.com/khulnasoft/style-guide",
   "compilerOptions": {
     "esModuleInterop": true,
+    "exactOptionalPropertyTypes": true,
     "forceConsistentCasingInFileNames": true,
     "noFallthroughCasesInSwitch": true,
     "noUncheckedIndexedAccess": true,

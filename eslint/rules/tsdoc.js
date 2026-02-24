@@ -1,5 +1,5 @@
 module.exports = {
-  plugins: ['eslint-plugin-tsdoc'],
+  plugins: ['tsdoc'],
   rules: {
     /**
      * Require TSDoc comments conform to the TSDoc specification.

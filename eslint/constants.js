@@ -1,5 +1,5 @@
 module.exports = {
-  ECMA_VERSION: 2021,
-  JAVASCRIPT_FILES: ['*.js?(x)', '*.mjs'],
-  TYPESCRIPT_FILES: ['*.ts?(x)'],
+  ECMA_VERSION: 2022,
+  JAVASCRIPT_FILES: ['*.js?(x)', '*.mjs', '*.cjs'],
+  TYPESCRIPT_FILES: ['*.ts?(x)', '*.mts', '*.cts'],
 };

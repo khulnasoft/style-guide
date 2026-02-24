@@ -9,7 +9,7 @@ module.exports = {
     /**
      * Disallow expressions where the operation doesn't affect the value.
      *
-     * 🚫 Not fixable - https://eslint.org/docs/rules/no-console
+     * 🚫 Not fixable - https://eslint.org/docs/rules/no-constant-binary-expression
      */
     'no-constant-binary-expression': 'error',
     /**
