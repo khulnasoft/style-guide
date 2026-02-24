@@ -1,6 +1,6 @@
-# The Khulnasoft Style Guide
+# The KhulnaSoft Style Guide
 
-<a aria-label="Khulnasoft logo" href="https://khulnasoft.com">
+<a aria-label="KhulnaSoft logo" href="https://khulnasoft.com">
   <img alt="" src="https://img.shields.io/badge/Made%20by%20Khulnasoft-000000.svg?style=flat-square&logo=Khulnasoft&labelColor=000">
 </a>
 <a aria-label="NPM version" href="https://www.npmjs.com/package/@khulnasoft/style-guide">

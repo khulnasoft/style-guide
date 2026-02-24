@@ -3,7 +3,7 @@ module.exports = {
     /**
      * Require return statements in array methods callbacks.
      *
-     * 🚫 Not fixable -https://eslint.org/docs/rules/array-callback-return
+     * 🚫 Not fixable - https://eslint.org/docs/rules/array-callback-return
      */
     'array-callback-return': ['error', { allowImplicit: true }],
     /**

@@ -1,7 +1,7 @@
 {
   "$schema": "https://json.schemastore.org/tsconfig",
   "extends": "./tsconfig.base.json",
-  "display": "Khulnasoft Node 18",
+  "display": "KhulnaSoft Node 18",
   "docs": "https://github.com/khulnasoft/style-guide",
   "compilerOptions": {
     "lib": ["es2023"],
